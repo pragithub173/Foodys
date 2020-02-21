@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<TabletCatalog>
+    <tablet id="Pizza">
+        <name>Pizza</name>
+        <price>50.99</price>
+        <image>pizza.jpeg</image>
+        <manufacturer>Pizza</manufacturer>
+        <condition>New</condition>
+        <discount>5</discount>
+    </tablet>
+    <tablet id="Lasagna">
+        <name>Lasagna</name>
+        <price>20.99</price>
+        <image>lasanga.jpg</image>
+        <manufacturer>Lasagna</manufacturer>
+        <condition>Used</condition>
+        <discount>1</discount>
+    </tablet>
+    <tablet id="Burgers">
+        <name>Burgers</name>
+        <price>15.99</price>
+        <image>burgers.jpg</image>
+        <manufacturer>Burgers</manufacturer>
+        <condition>New</condition>
+        <discount>0</discount>
+    </tablet>
+    <tablet id="Pasta">
+        <name>Pasta</name>
+        <price>35.99</price>
+        <image>pasta.jpeg</image>
+        <manufacturer>Pasta</manufacturer>
+        <condition>New</condition>
+        <discount>3</discount>
+    </tablet>
+    <tablet id="Salads">
+        <name>Salads</name>
+        <price>15.99</price>
+        <image>salads.jpg</image>
+        <manufacturer>Salads</manufacturer>
+        <condition>New</condition>
+        <discount>3</discount>
+    </tablet>
+	<tablet id="Biryani">
+        <name>Biryani</name>
+        <price>9.99</price>
+        <image>biryani.jpg</image>
+        <manufacturer>Biryani</manufacturer>
+        <condition>New</condition>
+        <discount>0</discount>
+    </tablet>
+	<tablet id="Chipotle">
+        <name>Chipotle</name>
+        <price>11.99</price>
+        <image>chipotle.jpg</image>
+        <manufacturer>Chipotle</manufacturer>
+        <condition>New</condition>
+        <discount>0</discount>
+    </tablet>
+    <tablet id="Noodles">
+        <name>Noodles</name>
+        <price>16.99</price>
+        <image>noodles.jpg</image>
+        <manufacturer>Noodles</manufacturer>
+        <condition>Used</condition>
+        <discount>0</discount>
+    </tablet>
+    <tablet id="Gyro">
+        <name>Gyro</name>
+        <price>30.99</price>
+        <image>gyro.jpg</image>
+        <manufacturer>Gyro</manufacturer>
+        <condition>New</condition>
+        <discount>2.0</discount>
+    </tablet>
+    <tablet id="Shawarma">
+        <name>Shawarma</name>
+        <price>8.99</price>
+        <image>shawarma.png</image>
+        <manufacturer>Shawarma</manufacturer>
+        <condition>New</condition>
+        <discount>0</discount>
+    </tablet>
+
+</TabletCatalog>
+
+</ProductCatalog>
