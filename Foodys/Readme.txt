@@ -26,10 +26,8 @@ Instructions how to deploy and run project:
 5.	Start Apache Tomcat server
 6.	Now run the application in the browser using the following command: localhost/Foodys
 ===========================================
-The APIs used and there keys are:
+APIs used are: 
+1.Google API key
 
-Google API key
+2.Yelp API key
 
-Yelp API key
-
-Client ID
