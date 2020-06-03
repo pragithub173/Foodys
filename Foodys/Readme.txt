@@ -28,8 +28,8 @@ Instructions how to deploy and run project:
 ===========================================
 The APIs used and there keys are:
 
-Google API key:
+Google API key
 
-Yelp API key: 
+Yelp API key
 
 Client ID
