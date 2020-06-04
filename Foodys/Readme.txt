@@ -14,7 +14,7 @@ Instructions how to deploy and run project:
 
 	set PATH="C:\Program Files\Java\jdk1.8.0_221\bin";%PATH%
 	
-	set CLASSPATH=.;C:\apache-tomcat-7.0.34\lib\servlet-api.jar;C:\apache-tomcat-7.0.34\lib\jsp-api.jar;C:\apache-tomcat-7.0.34\lib\el-api.jar;C:\apache-tomcat-7.0.34\lib\commons-beanutils-1.8.3.jar;C:\apache-tomcat-7.0.34\lib\mysql-connector-java-8.0.17.jar;C:\apache-tomcat-7.0.34\lib\mongo-java-driver-3.2.2.jar;C:\apache-tomcat-7.0.34\lib\gson-2.6.2.jar
+	set CLASSPATH=C:\apache-tomcat-7.0.34\lib\servlet-api.jar;C:\apache-tomcat-7.0.34\lib\jsp-api.jar;C:\apache-tomcat-7.0.34\lib\el-api.jar;C:\apache-tomcat-7.0.34\lib\commons-beanutils-1.8.3.jar;C:\apache-tomcat-7.0.34\lib\mysql-connector-java-8.0.17.jar;C:\apache-tomcat-7.0.34\lib\mongo-java-driver-3.2.2.jar;C:\apache-tomcat-7.0.34\lib\gson-2.6.2.jar
 
 	set ANT_HOME=C:\apache-tomcat-7.0.34
 
