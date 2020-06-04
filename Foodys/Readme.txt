@@ -1,6 +1,5 @@
 Total lines of code written- 4376
 
-Features that is implemented from the assignment:
 Intent is to build servlet-based web application using MVC architecture.
 
 =========================
